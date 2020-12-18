@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/govtJob"
+        android:icon="@drawable/baseline_train_black_24dp"
+        android:title="@string/govtJob" />
+
+    <item
+        android:id="@+id/ngoJob"
+        android:icon="@drawable/baseline_two_wheeler_black_24dp"
+        android:title="@string/ngoJobs" />
+    <item
+        android:id="@+id/bankJob"
+        android:icon="@drawable/round_account_balance_black_24dp"
+        android:title="@string/bankJob" />
+
+    <item
+        android:id="@+id/teletalk"
+        android:icon="@drawable/round_alarm_black_24dp"
+        android:title="@string/teletalkApplication" />
+
+
+</menu>

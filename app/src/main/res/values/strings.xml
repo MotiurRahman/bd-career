@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bd-Career</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="govtJob">Govt</string>
+    <string name="pvtJob">Private</string>
+    <string name="bankJob">Bank</string>
+    <string name="part_T_job">Part Time</string>
+    <string name="newsPaperJob">News Paper</string>
+    <string name="title_activity_bdjobs">BdjobsActivity</string>
+    <string name="allJobs">All Jobs</string>
+    <string name="governmentJobs">Government Jobs</string>
+    <string name="privateJ_obs">Private Jobs</string>
+    <string name="ngoJobs">NGO Jobs</string>
+    <string name="teletalkApplication">Teletalk</string>
+    <string name="assignment">Assignment</string>
+    <string name="bank_Jobs">Bank Jobs</string>
+    <string name="PartTime_Jobs">Part Time Jobs</string>
+    <string name="newPaperJobs">Newspaper Jobs</string>
+    <string name="title_activity_bdcareer">BD-CAREER</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
+
